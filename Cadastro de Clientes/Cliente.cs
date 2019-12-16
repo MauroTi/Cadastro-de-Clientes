@@ -8,6 +8,7 @@ namespace Cadastro_de_Clientes
 {
     public class Cliente
     {
+        public int Id { get; set; }
         public string Nome { get; set; }
         public string Endereco { get; set; }
         public string TelefoneFixo { get; set; }
@@ -15,5 +16,7 @@ namespace Cadastro_de_Clientes
         public string Telefone_celular_2 { get; set; }
         public string Telefone_celular_3 { get; set; }
         public string Observacoes { get; set; }
+        
     }
+
 }

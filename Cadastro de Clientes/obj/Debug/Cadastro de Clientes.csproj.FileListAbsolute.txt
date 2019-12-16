@@ -2,7 +2,6 @@ C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.pdb
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csprojAssemblyReference.cache
-C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Form1.resources
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Properties.Resources.resources
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.GenerateResource.cache
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.CoreCompileInputs.cache
@@ -13,7 +12,10 @@ C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Renci.SshNet.dll
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\MySql.Data.xml
-C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Form2.resources
-C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Form3.resources
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.CopyComplete
-C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Form4.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Usuarios.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Principal.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormCliente.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormLogin.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormChamado.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormAbrirChamado.resources

@@ -1,6 +1,6 @@
 ﻿namespace Cadastro_de_Clientes
 {
-    partial class Form4
+    partial class FormAbrirChamado
     {
         /// <summary>
         /// Required designer variable.
@@ -28,20 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnAbreCliente = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.fone = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // button1
+            // btnAbreCliente
             // 
-            this.button1.Location = new System.Drawing.Point(62, 109);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Ok";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnAbreCliente.Location = new System.Drawing.Point(62, 109);
+            this.btnAbreCliente.Name = "btnAbreCliente";
+            this.btnAbreCliente.Size = new System.Drawing.Size(75, 23);
+            this.btnAbreCliente.TabIndex = 0;
+            this.btnAbreCliente.Text = "Ok";
+            this.btnAbreCliente.UseVisualStyleBackColor = true;
+            this.btnAbreCliente.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -51,6 +52,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Cancelar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label1
             // 
@@ -61,24 +63,24 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Digite um número de telefone";
             // 
-            // textBox1
+            // fone
             // 
-            this.textBox1.Location = new System.Drawing.Point(62, 68);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(191, 20);
-            this.textBox1.TabIndex = 3;
+            this.fone.Location = new System.Drawing.Point(62, 68);
+            this.fone.Name = "fone";
+            this.fone.Size = new System.Drawing.Size(191, 20);
+            this.fone.TabIndex = 3;
             // 
-            // Form4
+            // FormAbrirChamado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(328, 178);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.fone);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Name = "Form4";
-            this.Text = "Form4";
+            this.Controls.Add(this.btnAbreCliente);
+            this.Name = "FormAbrirChamado";
+            this.Text = "Abrir Chamado";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -86,9 +88,9 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnAbreCliente;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox fone;
     }
 }

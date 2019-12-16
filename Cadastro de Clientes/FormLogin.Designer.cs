@@ -1,6 +1,6 @@
 ﻿namespace Cadastro_de_Clientes
 {
-    partial class Form2
+    partial class FormLogin
     {
         /// <summary>
         /// Required designer variable.
