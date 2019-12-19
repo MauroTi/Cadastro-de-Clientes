@@ -51,7 +51,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(269, 687);
+            this.button1.Location = new System.Drawing.Point(469, 155);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 41);
             this.button1.TabIndex = 0;
@@ -61,7 +61,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(462, 687);
+            this.button2.Location = new System.Drawing.Point(662, 155);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(118, 41);
             this.button2.TabIndex = 1;
@@ -71,50 +71,50 @@
             // 
             // txtCelular3
             // 
-            this.txtCelular3.Location = new System.Drawing.Point(159, 274);
+            this.txtCelular3.Location = new System.Drawing.Point(159, 251);
             this.txtCelular3.Name = "txtCelular3";
             this.txtCelular3.Size = new System.Drawing.Size(228, 20);
             this.txtCelular3.TabIndex = 41;
             // 
             // txtObservacoes
             // 
-            this.txtObservacoes.Location = new System.Drawing.Point(49, 387);
+            this.txtObservacoes.Location = new System.Drawing.Point(49, 335);
             this.txtObservacoes.Multiline = true;
             this.txtObservacoes.Name = "txtObservacoes";
-            this.txtObservacoes.Size = new System.Drawing.Size(343, 233);
+            this.txtObservacoes.Size = new System.Drawing.Size(343, 170);
             this.txtObservacoes.TabIndex = 40;
             // 
             // txtCelular2
             // 
-            this.txtCelular2.Location = new System.Drawing.Point(159, 241);
+            this.txtCelular2.Location = new System.Drawing.Point(159, 218);
             this.txtCelular2.Name = "txtCelular2";
             this.txtCelular2.Size = new System.Drawing.Size(228, 20);
             this.txtCelular2.TabIndex = 39;
             // 
             // txtCelular1
             // 
-            this.txtCelular1.Location = new System.Drawing.Point(159, 209);
+            this.txtCelular1.Location = new System.Drawing.Point(159, 186);
             this.txtCelular1.Name = "txtCelular1";
             this.txtCelular1.Size = new System.Drawing.Size(228, 20);
             this.txtCelular1.TabIndex = 38;
             // 
             // txtTelefoneFixo
             // 
-            this.txtTelefoneFixo.Location = new System.Drawing.Point(159, 172);
+            this.txtTelefoneFixo.Location = new System.Drawing.Point(159, 149);
             this.txtTelefoneFixo.Name = "txtTelefoneFixo";
             this.txtTelefoneFixo.Size = new System.Drawing.Size(228, 20);
             this.txtTelefoneFixo.TabIndex = 37;
             // 
             // txtEndereco
             // 
-            this.txtEndereco.Location = new System.Drawing.Point(159, 140);
+            this.txtEndereco.Location = new System.Drawing.Point(159, 117);
             this.txtEndereco.Name = "txtEndereco";
             this.txtEndereco.Size = new System.Drawing.Size(228, 20);
             this.txtEndereco.TabIndex = 36;
             // 
             // txtNome
             // 
-            this.txtNome.Location = new System.Drawing.Point(159, 108);
+            this.txtNome.Location = new System.Drawing.Point(159, 85);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(228, 20);
             this.txtNome.TabIndex = 35;
@@ -122,7 +122,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(427, 45);
+            this.label11.Location = new System.Drawing.Point(427, 22);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(39, 13);
             this.label11.TabIndex = 34;
@@ -131,7 +131,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(46, 362);
+            this.label7.Location = new System.Drawing.Point(46, 310);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(70, 13);
             this.label7.TabIndex = 33;
@@ -140,7 +140,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(43, 281);
+            this.label6.Location = new System.Drawing.Point(43, 258);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(93, 13);
             this.label6.TabIndex = 32;
@@ -149,7 +149,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(44, 248);
+            this.label5.Location = new System.Drawing.Point(44, 225);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(93, 13);
             this.label5.TabIndex = 31;
@@ -158,7 +158,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(43, 216);
+            this.label4.Location = new System.Drawing.Point(43, 193);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(93, 13);
             this.label4.TabIndex = 30;
@@ -167,7 +167,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(43, 179);
+            this.label3.Location = new System.Drawing.Point(43, 156);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(71, 13);
             this.label3.TabIndex = 29;
@@ -176,7 +176,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(43, 147);
+            this.label2.Location = new System.Drawing.Point(43, 124);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 28;
@@ -185,7 +185,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(43, 115);
+            this.label1.Location = new System.Drawing.Point(43, 92);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 27;
@@ -193,16 +193,16 @@
             // 
             // txtObservacoesChamadoAtual
             // 
-            this.txtObservacoesChamadoAtual.Location = new System.Drawing.Point(455, 388);
+            this.txtObservacoesChamadoAtual.Location = new System.Drawing.Point(455, 336);
             this.txtObservacoesChamadoAtual.Multiline = true;
             this.txtObservacoesChamadoAtual.Name = "txtObservacoesChamadoAtual";
-            this.txtObservacoesChamadoAtual.Size = new System.Drawing.Size(343, 233);
+            this.txtObservacoesChamadoAtual.Size = new System.Drawing.Size(343, 169);
             this.txtObservacoesChamadoAtual.TabIndex = 43;
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(452, 362);
+            this.label8.Location = new System.Drawing.Point(452, 310);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(170, 13);
             this.label8.TabIndex = 42;
@@ -212,7 +212,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(862, 754);
+            this.ClientSize = new System.Drawing.Size(862, 536);
             this.Controls.Add(this.txtObservacoesChamadoAtual);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.txtCelular3);

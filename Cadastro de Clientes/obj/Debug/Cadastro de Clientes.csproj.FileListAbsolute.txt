@@ -19,3 +19,7 @@ C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormLogin.resources
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormChamado.resources
 C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.FormAbrirChamado.resources
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe.manifest
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.application
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.exe.manifest
+C:\Users\MAURO\source\repos\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.application
